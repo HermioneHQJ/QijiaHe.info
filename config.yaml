@@ -15,15 +15,15 @@ menu:
       url: "about/"
       weight: 2
     - name: Gallary
-      url: ""
+      url: "gallary/"
       weight: 3
     - name: FunFact
-      url: ""
+      url: "funfact/"
       weight: 4
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [QIJIA HE](https://yihui.org) 2023 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  footer: "&copy; [QIJIA HE](https://yihui.org) 2023 -- {Year} | [Github](https://github.com/HermioneHQJ)"
 
 markup:
   highlight:
