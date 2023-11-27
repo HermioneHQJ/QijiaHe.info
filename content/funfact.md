@@ -1,4 +1,4 @@
-#Funfact About Qijia HE
+# Funfact About Me
 
 **I used to be a K-Pop Trainee in Korea.**
 
