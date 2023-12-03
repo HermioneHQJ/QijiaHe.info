@@ -28,7 +28,7 @@ title: Home
 
 ## Research Proposal
 
-### Addressing Anomalies and Improving Sensitivity and Accuracy of Existing ESG Ratings Based on NLP Large Models
+### Addressing Heterogeneity and Improving Sensitivity and Accuracy of Existing ESG Ratings Based on NLP Large Models
 
 **Key Words: ESG Heterogeneity, Machine Learning, NLP, BERT, RoBERTa, FinBerta**
 
