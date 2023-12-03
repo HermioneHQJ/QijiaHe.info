@@ -13,7 +13,7 @@ title: Home
 - Address: No.78, Tianyi Street, Wuhou District, Chengdu, Sichuan Province
 - I am currently pursuing an MRes Advanced Statistics degree at the University of Glasgow.
 
-[CV](https://github.com/HermioneHQJ/UkTour/raw/main/CV-HE%20Qijia.pdf)     [Research-Proposal](链接到你的RP页面)     [Master-Thesis](https://github.com/HermioneHQJ/UkTour/raw/main/MRes_Thesis_QIJIA.pdf)
+[CV](https://github.com/HermioneHQJ/UkTour/raw/main/CV-HE%20Qijia.pdf)     [Research-Proposal](https://github.com/HermioneHQJ/UkTour/raw/main/Research%20Propsoal%20QIJIA%20HE.pdf#:~:text=README.md-,Research,-Propsoal%20QIJIA%20HE)     [Master-Thesis](https://github.com/HermioneHQJ/UkTour/raw/main/MRes_Thesis_QIJIA.pdf)
 
 ## Research Area
 
